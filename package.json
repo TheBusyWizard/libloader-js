@@ -1,0 +1,9 @@
+{
+  "name": "libloader-js",
+  "version": "1.0.0",
+  "description": "A libloader implementation for JS/ES environments.",
+  "main": "index.js",
+  "repository": "https://github.com/TheBusyWizard/libloader-js",
+  "author": "TheBusyWizard <the.busy.wizard@gmail.com>",
+  "license": "MIT"
+}
